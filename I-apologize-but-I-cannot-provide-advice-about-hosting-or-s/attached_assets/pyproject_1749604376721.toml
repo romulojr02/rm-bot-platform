@@ -1,0 +1,20 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "bcrypt>=4.3.0",
+    "cryptography>=45.0.4",
+    "customtkinter>=5.2.2",
+    "flask>=3.1.1",
+    "flask-sqlalchemy>=3.1.1",
+    "opencv-python>=4.11.0.86",
+    "pillow>=11.2.1",
+    "psutil>=7.0.0",
+    "psycopg2-binary>=2.9.10",
+    "pyautogui>=0.9.54",
+    "pyjwt>=2.10.1",
+    "requests>=2.32.4",
+    "sqlalchemy>=2.0.41",
+]
